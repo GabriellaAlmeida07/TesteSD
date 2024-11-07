@@ -11,14 +11,12 @@ A tabela-verdade mostra as entradas à esquerda e as saídas correspondentes à 
 Vejamos as principais portas lógicas e suas tabelas verdade:
 <br clear="left"/>
 
-## Porta NOT
-
 <div style="display: flex;">
     <div style="margin-right: 20px;">
-        <img align="left" width="230" height="230" src="https://github.com/user-attachments/assets/49b0cd00-3690-4f6d-98fb-3c7f480db75a">
+        <img align="left" width="230" height="230" src="https://github.com/user-attachments/assets/3e1e5f4c-b684-4a6b-857c-89685eaab878">
     </div>
     <div style="margin-right: 20px;">
-        <img align="left" width="230" height="230" src="https://github.com/user-attachments/assets/172ec57e-a936-484a-adf5-ba83f5747d2c">
+        <img align="left" width="230" height="230" src="https://github.com/user-attachments/assets/92c21331-a350-41a5-83e2-58ce40907cb9">
     </div>
     </div>
     <div>
@@ -172,7 +170,7 @@ Assim, combinando os resultados obtemos:
 <br clear="left"/>
 
 <p align="center">
-    <img width="420" height="250" src="https://github.com/user-attachments/assets/a044d985-9164-470a-af10-7f9ff836c3d0">
+    <img width="420" height="250" src="https://github.com/user-attachments/assets/ee69d7a2-deed-45c6-aeb1-7a256a01f9ba">
 </p>
 
 <br clear="left"/>
