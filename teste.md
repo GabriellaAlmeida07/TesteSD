@@ -69,7 +69,7 @@ Vejamos as principais portas lógicas e suas tabelas verdade:
 > 💡 **Dica:** Compare a tabela verdade da porta AND com a tabela verdade da NAND
 
 <br clear="left"/>
-
+<br clear="left"/>
 
 ## Porta OR
 
