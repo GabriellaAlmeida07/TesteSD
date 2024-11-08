@@ -1,4 +1,4 @@
----
+![A (1)](https://github.com/user-attachments/assets/e6d46404-e4bb-4f57-ab2c-33f2d03665a7)---
 title: Circuítos para Operações Lógicas
 description: Grupo 17
 ---
@@ -31,10 +31,10 @@ Vejamos as principais portas lógicas e suas tabelas verdade:
 <div style="display: flex;">
     <div style="margin-left: 20px;">
         <div> 
-             <img align="right" width="230" height="230" src="https://github.com/user-attachments/assets/c521a478-0e2e-4c83-ac30-622b710d6570">
+             <img align="right" width="230" height="230" src="https://github.com/user-attachments/assets/50924142-4799-4345-be18-95f03df36251">
         </div>
         <div> 
-             <img align="right" width="230" height="230" src="https://github.com/user-attachments/assets/9841bc08-ed74-4bdb-b838-cbc684a3dd3a">
+             <img align="right" width="230" height="230" src="https://github.com/user-attachments/assets/895c0fcb-5cc8-4d9b-b2a5-855448025a59">
         </div>
     </div>
     <div>
@@ -170,7 +170,7 @@ Assim, combinando os resultados obtemos:
 <br clear="left"/>
 
 <p align="center">
-    <img width="420" height="250" src="https://github.com/user-attachments/assets/ee69d7a2-deed-45c6-aeb1-7a256a01f9ba">
+    <img width="420" height="250" src="https://github.com/user-attachments/assets/6d032877-fb3d-4e90-bd05-51c9f0d3a2d5">
 </p>
 
 <br clear="left"/>
@@ -181,7 +181,7 @@ Assim, combinando os resultados obtemos:
 <br clear="left"/>
 
 <p align="center">
-    <img width="420" height="250" src="https://github.com/user-attachments/assets/ae6493ca-73a1-45d8-9927-1559a3c2b043">
+    <img width="420" height="250" src="https://github.com/user-attachments/assets/383affa7-ad08-4c86-9354-52cf3dc5d550">
 </p>
 
 > 
