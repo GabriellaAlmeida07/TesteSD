@@ -1,4 +1,3 @@
-![A (1)](https://github.com/user-attachments/assets/e6d46404-e4bb-4f57-ab2c-33f2d03665a7)---
 title: Circuítos para Operações Lógicas
 description: Grupo 17
 ---
@@ -48,10 +47,10 @@ Vejamos as principais portas lógicas e suas tabelas verdade:
 
 <div style="display: flex;">
     <div style="margin-right: 20px;">
-        <img align="left" width="230" height="230" src="https://github.com/user-attachments/assets/81480ce5-5ec4-477f-a386-fff78f995a68">
+        <img align="left" width="230" height="230" src="https://github.com/user-attachments/assets/3ed2b1ec-d3eb-4b88-b828-e03674513679">
     </div>
     <div style="margin-right: 20px;">
-        <img align="left" width="230" height="230" src="https://github.com/user-attachments/assets/2d8e397b-7fbf-41ec-9a5d-6a122333abc2">
+        <img align="left" width="230" height="230" src="https://github.com/user-attachments/assets/8fc2aa82-3ddf-4c3a-9f31-62466679a94a">
     </div>
     </div>
     <div>
@@ -72,10 +71,10 @@ Vejamos as principais portas lógicas e suas tabelas verdade:
 <div style="display: flex;">
     <div style="margin-left: 20px;">
         <div> 
-             <img align="right" width="230" height="230" src="https://github.com/user-attachments/assets/990e4bf4-c9b5-44de-b350-ee753a8b0637">
+             <img align="right" width="230" height="230" src="https://github.com/user-attachments/assets/8d36e4ea-ea92-429e-b55c-ec25a7f7aca9">
         </div>
         <div> 
-             <img align="right" width="230" height="230" src="https://github.com/user-attachments/assets/5fbb3cb0-e706-4692-a1c7-3e52783a2b67">
+             <img align="right" width="230" height="230" src="https://github.com/user-attachments/assets/5ede0655-42b4-446a-abd5-f98a648d237c">
         </div>
     </div>
     <div>
@@ -92,10 +91,10 @@ Vejamos as principais portas lógicas e suas tabelas verdade:
 
 <div style="display: flex;">
     <div style="margin-right: 20px;">
-        <img align="left" width="230" height="230" src="https://github.com/user-attachments/assets/907e24f1-f8fa-44ea-9da3-902aa58786a3">
+        <img align="left" width="230" height="230" src="https://github.com/user-attachments/assets/8cd66769-44d7-425d-ab7e-b81814c6fee9">
     </div>
     <div style="margin-right: 20px;">
-        <img align="left" width="230" height="230" src="https://github.com/user-attachments/assets/ab0b771d-d45a-4610-ab13-ff2dab410724">
+        <img align="left" width="230" height="230" src="https://github.com/user-attachments/assets/15538303-d4d4-473f-b209-3de661287ce3">
     </div>
     </div>
     <div>
@@ -114,10 +113,10 @@ Vejamos as principais portas lógicas e suas tabelas verdade:
 <div style="display: flex;">
     <div style="margin-left: 20px;">
         <div> 
-             <img align="right" width="230" height="230" src="https://github.com/user-attachments/assets/955fd231-effe-4983-bbf9-0edb53df2c5a">
+             <img align="right" width="230" height="230" src="https://github.com/user-attachments/assets/6fcd812e-36c1-47dd-a1a6-2aeeddc3db33">
         </div>
         <div> 
-             <img align="right" width="230" height="230" src="https://github.com/user-attachments/assets/64b39611-4078-4453-8d46-58b382f09717">
+             <img align="right" width="230" height="230" src="https://github.com/user-attachments/assets/e13bf3a1-c9ab-4d09-ac67-fbe2c4b4443f">
         </div>
     </div>
     <div>
