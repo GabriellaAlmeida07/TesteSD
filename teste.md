@@ -10,6 +10,11 @@ A tabela-verdade mostra as entradas à esquerda e as saídas correspondentes à 
 Vejamos as principais portas lógicas e suas tabelas verdade:
 <br clear="left"/>
 
+<br clear="left"/>
+
+## Porta NOT
+<br clear="left"/>
+
 <div style="display: flex;">
     <div style="margin-right: 20px;">
         <img align="left" width="230" height="230" src="https://github.com/user-attachments/assets/3e1e5f4c-b684-4a6b-857c-89685eaab878">
