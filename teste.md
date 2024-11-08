@@ -170,7 +170,7 @@ Assim, combinando os resultados obtemos:
 <br clear="left"/>
 
 <p align="center">
-    <img width="420" height="250" src="https://github.com/user-attachments/assets/6d032877-fb3d-4e90-bd05-51c9f0d3a2d5">
+    <img width="420" height="250" src="https://github.com/user-attachments/assets/2aa6893f-b205-4742-861e-3a7ce67628f8">
 </p>
 
 <br clear="left"/>
@@ -181,7 +181,7 @@ Assim, combinando os resultados obtemos:
 <br clear="left"/>
 
 <p align="center">
-    <img width="420" height="250" src="https://github.com/user-attachments/assets/383affa7-ad08-4c86-9354-52cf3dc5d550">
+    <img width="420" height="250" src="https://github.com/user-attachments/assets/e0d19456-ecb7-43ab-942c-accc542525a7">
 </p>
 
 > 
