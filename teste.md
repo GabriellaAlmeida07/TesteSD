@@ -243,6 +243,9 @@ Questão 4 -
 <br clear="left"/>
 <br clear="left"/>
 
-Autores: Gabriella Almeida
-         Kelvin Ribeiro Silva
-         Nicolas (completa seu nome kkk)
+Autores: 
+Gabriella Almeida
+<br clear="left"/>
+Kelvin Ribeiro Silva
+<br clear="left"/>
+Nicolas (completa seu nome kkk)
