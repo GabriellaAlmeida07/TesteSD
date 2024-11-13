@@ -1,5 +1,4 @@
-title: Circuítos para Operações Lógicas
-description: Grupo 17
+Circuítos para Operações Lógicas
 ---
 
 ### O são portas lógicas?
@@ -244,7 +243,6 @@ Questão 4 -
 <br clear="left"/>
 <br clear="left"/>
 
-:::note TODO
-
-Grupo 17
-:::
+Autores: Gabriella Almeida
+         Kelvin Ribeiro Silva
+         Nicolas (completa seu nome kkk)
